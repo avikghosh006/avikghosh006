@@ -1,8 +1,9 @@
 ```text
-      _,-'|           OS: ......... Linux (Ubuntu 22.04)
-     /-.' |           Uptime: ..... 22 years
-    /   ' |           Kernel: ..... MirAI B.Tech Student
-   | .-.  |           Languages: .. Python, JavaScript, C++
-   | | |  |           Hobbies: .... AI Engineering, Gaming, Robotics
-   \ `-'  /           Contact: .... avikghoshjee23@example.com
-    `._,-'
+   ,----------------,   
+  | [><]    [_][_] |    OS: ......... Windows/Mac/Linux
+  |  __      ====  |    Uptime: ..... 22 years
+  | |__|    [__]   |    Kernel: ..... MirAI B.Tech Student
+  |________________|    Languages: .. Python, JavaScript, C++
+     |________|         Hobbies: .... AI Engineering, Gaming, Competitive Programming
+   .-------------.      Contact: .... avikghoshjee23@gmail.com
+ /________________\
