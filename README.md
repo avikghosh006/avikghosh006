@@ -4,5 +4,5 @@
     /   ' |           Kernel: ..... MirAI B.Tech Student
    | .-.  |           Languages: .. Python, JavaScript, C++
    | | |  |           Hobbies: .... AI Engineering, Gaming, Robotics
-   \ `-'  /           Contact: .... avikghosh006@example.com
+   \ `-'  /           Contact: .... avikghoshjee23@example.com
     `._,-'
