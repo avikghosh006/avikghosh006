@@ -8,6 +8,5 @@
    .-------------.      Contact: .... avikghoshjee23@gmail.com
  /________________\
 ```
-```markdown
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avikghosh006&theme=radical&show_icons=true)](https://github.com/avikghosh006)
-```
